@@ -29,7 +29,7 @@ public class LoadSpecificScene : MonoBehaviour
     
     }
 
-    //Transistion en blanc
+    // Transistion en blanc
     public IEnumerator loadNextScene()
     {
         fadeSystem.SetTrigger("FadeIn");

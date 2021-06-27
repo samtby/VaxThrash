@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+
 public class B_INV : MonoBehaviour
 {   
     public SpriteRenderer sprite; // Modifier la couleur du Sprite

@@ -1,4 +1,4 @@
-using System.Collections;//Pour Coroutine
+using System.Collections; // Pour Coroutine
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -18,7 +18,7 @@ public class B_FALL : MonoBehaviour
     public void Start()
     {
         // Position original
-        originalPos = gameObject.transform.position;
+        //originalPos = gameObject.transform.position;
         // Bloc activé non
         actived = false; 
         rb = GetComponent<Rigidbody2D>();

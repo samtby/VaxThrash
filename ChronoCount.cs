@@ -14,17 +14,19 @@ public class ChronoCount : MonoBehaviour
 
     //bool stopChrono;
 
+    public Animator animatorChrono;
 
+    public BoxCollider2D boxCollider2D;
 
 
     // Start is called before the first frame update
     void Start()
     {
-       
+        boxCollider2D = GetComponent<BoxCollider2D>();
         // Affiche le text
         text = GetComponent<Text>();   
-        //Lance le chrono
-        //StartChrono();
+        // Empêche l'animation de se jouer
+        animatorChrono.enabled = false;
     }
 
     // Update is called once per frame
@@ -49,22 +51,33 @@ public class ChronoCount : MonoBehaviour
         //Si le joueur appuie sur n'importe quelle touche
         if (Input.GetKeyDown("space") || Input.GetKeyDown("left") || Input.GetKeyDown("right"))
         {
+            // Lance le Chrono & Animation
             StartChrono();
-            
         }
-    }
 
-    public void StartChrono() // Passe le Chrono en True > Start Chrono
+    }
+    public void OnTriggerEnter2D(Collider2D collision) 
     {
-        if (Input.anyKey)
+        if (collision.transform.CompareTag("Player"))
         {
-            playingChrono = true;
-        }
+            StopChrono();
+        }    
+    }
+    public void StartChrono() // Passe le Chrono en True > Start Chrono
+    {   
+        // Lance 
+        playingChrono = true;   
+        // Joue l' animation
+        animatorChrono.enabled = true;
     }
 
     public void StopChrono() // Passe le Chrono en False > Stop Chrono
     {
-        // text = GetComponent<Text>();
+        // Ne pas continuer le chrono mais laisser vissible le "dernier" temps
+        //text = GetComponent<Text>();
         playingChrono = false;
+        // Arrète l'animation (sur la position actuelle de l'animation "freeze) 
+        animatorChrono.enabled = false;
+        //?Time.timeScale = 0
     }
 }

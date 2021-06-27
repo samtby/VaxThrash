@@ -1,4 +1,3 @@
-
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -22,10 +21,11 @@ public class Inventory : MonoBehaviour
     }
 
 
-    //Ajoute + 1 dans le compteur
+    // Ajoute + 1 dans le compteur
     public void AddDeath(int count)
     {
         deathCount += count;
-        deathCountText.text = deathCount.ToString(); //Transform le Int en Text
+        // Affiche le NB de MORT et Transform le Int en Text
+        deathCountText.text = deathCount.ToString(); 
     }
 }

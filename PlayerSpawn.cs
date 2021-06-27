@@ -8,6 +8,7 @@ using UnityEngine;
     public void Awake()
     {
         GameObject.FindGameObjectWithTag("Player").transform.position = transform.position;
+        GameObject.FindGameObjectWithTag("Player").GetComponent<BoxCollider2D>().enabled = true;
     }
 
 }
