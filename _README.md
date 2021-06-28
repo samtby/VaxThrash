@@ -1,4 +1,4 @@
-# _PROJECT_:_DON'T_FALL_
+# PROJECT : DON'T FALL
 
 - 👋 Hi, I’m ME
 - 👀 I’m interested in Video-Game, Animation, Music, Programmation, Drawing
