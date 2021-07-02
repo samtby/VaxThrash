@@ -4,7 +4,7 @@ It's a plateformer 2D Video Game made on Unity / C#
 
 1 Rule : Don't Fall!
 
-How to Win ? : Go to the Flag ->
+How to Win ? : Go to the Flag.
 
 Enemy : 
 Blocs (Falling, Invisible, Push, Interuptor, maybe more...) / Lava (Water, Chemical Waste, Other...).
