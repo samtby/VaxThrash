@@ -1,6 +1,6 @@
 # PROJECT : DON'T FALL
 
-It's a plateformer 2D Video Game
+It's a plateformer 2D Video Game made on Unity / C#
 
 1 Rule : Don't Fall!
 
@@ -14,6 +14,8 @@ Cubik / Simple.
 
 Sound :
 Low music / Inspiration : Portal 2/Undertales/Pokemon (Lavanville).
+
+To play the game : https://www.mediafire.com/file/td7uker6uanlci2/Test_0.6.1.zip/file
 
 <!---
 VaxThrash/VaxThrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
