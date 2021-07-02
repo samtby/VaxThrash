@@ -6,16 +6,17 @@ It's a plateformer 2D Video Game made on Unity / C#
 
 How to Win ? : Go to the Flag.
 
-Enemy : 
-Blocs (Falling, Invisible, Push, Interuptor, maybe more...) / Lava (Water, Chemical Waste, Other...).
+Player : 1 Player
 
-Graphics :
-Cubik / Simple.
+Controllers : Right, Left, Jump
 
-Sound :
-(Not created yet) Low music / Inspiration : Portal 2/Undertales/Pokemon (Lavanville).
+Enemy : Blocs (Falling, Invisible, Push, Interuptor, maybe more...) / Lava (Water, Chemical Waste, Other...).
 
-To play the game : https://www.mediafire.com/file/td7uker6uanlci2/Test_0.6.1.zip/file
+Graphics : Cubik / Simple.
+
+Sound : (Not created yet) Low music / Inspiration : Portal 2/Undertales/Pokemon (Lavanville).
+
+### To play the game : https://www.mediafire.com/file/td7uker6uanlci2/Test_0.6.1.zip/file
 
 <!---
 VaxThrash/VaxThrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
