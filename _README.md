@@ -7,16 +7,16 @@ It's a plateformer 2D Video Game
 How to Win ? : Go to the Flag ->
 
 Enemy : 
--Blocs (Falling, Invisible, Push, Interuptor, maybe more...).
--Lava (Water, Chemical Waste, Other...).
+Blocs (Falling, Invisible, Push, Interuptor, maybe more...).
+Lava (Water, Chemical Waste, Other...).
 
 Graphics :
--Cubik.
--Simple.
+Cubik.
+Simple.
 
 Sound :
--Low music.
--Inspiration : Portal 2/Undertales/Pokemon (Lavanville).
+Low music.
+Inspiration : Portal 2/Undertales/Pokemon (Lavanville).
 
 <!---
 VaxThrash/VaxThrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
