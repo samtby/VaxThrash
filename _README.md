@@ -13,7 +13,7 @@ Graphics :
 Cubik / Simple.
 
 Sound :
-Low music / Inspiration : Portal 2/Undertales/Pokemon (Lavanville).
+(Not created yet) Low music / Inspiration : Portal 2/Undertales/Pokemon (Lavanville).
 
 To play the game : https://www.mediafire.com/file/td7uker6uanlci2/Test_0.6.1.zip/file
 
