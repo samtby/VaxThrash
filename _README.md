@@ -16,7 +16,7 @@ Graphics :
 
 Sound :
 -Low music
-Inspiration : Portal 2/Undertales/Pokemon (Lavanville)
+-Inspiration : Portal 2/Undertales/Pokemon (Lavanville)
 
 <!---
 VaxThrash/VaxThrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
