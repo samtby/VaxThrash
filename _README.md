@@ -16,7 +16,7 @@ Graphics : Cubik / Simple.
 
 Sound : (Not created yet) Low music / Inspiration : Portal 2/Undertales/Pokemon (Lavanville).
 
-### To play the game : https://www.mediafire.com/file/td7uker6uanlci2/Test_0.6.1.zip/file
+### To download and play the game : https://www.mediafire.com/file/td7uker6uanlci2/Test_0.6.1.zip/file
 
 <!---
 VaxThrash/VaxThrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
