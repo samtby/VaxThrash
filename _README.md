@@ -1,11 +1,22 @@
 # PROJECT : DON'T FALL
 
-- 👋 Hi, I’m ME
-- 👀 I’m interested in Video-Game, Animation, Music, Programmation, Drawing
-- 🌱 I’m currently learning C#, Unity 2D
-- 💞️ I’m looking to help me (if you want) on the "Project : Don't Fall"
-- 📫 How to reach me : No sé
-- Sorry for my BAD english....
+It's a plateformer 2D Video Game
+
+1 Rule : Don't Fall!
+
+How to Win ? : Go to the Flag ->
+
+Enemy : 
+-Blocs (Falling, Invisible, Push, Interuptor, maybe more...)
+-Lava (Water, Chemical Waste, Other...)
+
+Graphics :
+-Cubik
+-Simple
+
+Sound :
+-Low music
+Inspiration : Portal 2/Undertales/Pokemon (Lavanville)
 
 <!---
 VaxThrash/VaxThrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
